@@ -12,9 +12,10 @@
 ![Scope](https://img.shields.io/badge/scope-V4%20V6%20V8%20V9%20V10%20V11%20V13-7C3AED)
 ![Fallback](https://img.shields.io/badge/fallback-Governed%20Source%20Analysis-F59E0B)
 
-**原创作者公众号：欧工** 
+**原创作者公众号：欧工AI**  
 **微信：603311638**
 
+**目前版本只支持keil工程单片机项目知识库整理**
 </div>
 
 ---
