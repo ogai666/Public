@@ -12,7 +12,7 @@
 ![Output](https://img.shields.io/badge/output-12%2B1%20Docs-7C3AED)
 ![Quality](https://img.shields.io/badge/quality-Verification%20Package-F59E0B)
 
-**原创作者公众号：欧工**  
+**原创作者公众号：欧工AI**  
 **微信：603311638**
 
 </div>
